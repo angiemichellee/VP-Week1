@@ -1,4 +1,6 @@
 package com.example.soal2
 
-class Soal2 {
+fun main() {
+    var go = main()
+    go.Start()
 }
