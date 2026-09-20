@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a8754a2-b1b4-4028-a555-7c1c1203e1f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OrderingFood/Soal2/src/main/java/com/example/soal2/main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingFood/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingFood/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingFood/.kotlin/sessions/kotlin-compiler-13660923649185913245.salive" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingFood/Soal2/src/main/java/com/example/soal2/Soal2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingFood/Soal2/src/main/java/com/example/soal2/Soal2.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +36,7 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "mine",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
