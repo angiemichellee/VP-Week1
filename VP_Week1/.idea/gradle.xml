@@ -9,8 +9,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/Soal1" />
-            <option value="$PROJECT_DIR$/Soal2" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
